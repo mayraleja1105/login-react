@@ -23,4 +23,5 @@ git push origin nombre-de-la-rama
 Para cambiar simplemente de rama:
 git checkout nombre-de-la-rama
 
+Ok.
 
