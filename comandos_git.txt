@@ -1,0 +1,9 @@
+git init 
+(inicializa un repositorio local en mi proyecto)
+
+git branch -M main
+(renombra la rama master por main)
+
+git add . 
+(esto sube todo el proyecto o los archivos que estan en la carpeta raiz)
+
