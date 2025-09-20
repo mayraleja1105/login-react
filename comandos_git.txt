@@ -23,6 +23,9 @@ git push origin nombre-de-la-rama
 Para realizar subida y seguimiento de la rama:
 git push --set-upstream origin nombre-de-la-rama
 
+Para traer o halar los cambios de alguna rama:
+git pull origin nombre-de-la-rama
+
 Para cambiar simplemente de rama:
 git checkout nombre-de-la-rama
 
