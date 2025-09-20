@@ -7,3 +7,20 @@ git branch -M main
 git add . 
 (esto sube todo el proyecto o los archivos que estan en la carpeta raiz)
 
+git commit -m "comentario sobre la version a subir"
+
+git push
+(Subir los cambios locales a GitHub)
+
+(En caso de que sea un repositorio nuevo se debe copiar los dos ultimos comandos que nos ofrece GitHub los cuales contienen la url y la rama de seguimiento del repositorio:
+git remote add origin https://github.com/mayraleja1105/login-react.git
+git push -u origin main)
+
+Crear Ramas para el Desarrollo:
+git checkout -b nombre-de-la-rama
+git push origin nombre-de-la-rama
+
+Para cambiar simplemente de rama:
+git checkout nombre-de-la-rama
+
+
