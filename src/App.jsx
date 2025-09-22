@@ -33,3 +33,12 @@ function App() {
 }
 
 export default App
+
+import {AppRutas} from './routes/AppRutas';
+  export const App = () => {
+  return (
+    <div>
+      <AppRutas />
+    </div>
+  );
+};
